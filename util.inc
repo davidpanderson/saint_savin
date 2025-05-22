@@ -36,24 +36,24 @@ function head($this) {
 
     echo '
         <html>
-        <body style="background-color: black; color: khaki; font-family: Garamond;" link=khaki vlink=khaki>
+        <body style="background-color: black; color: white; font-family: Garamond;" link=white vlink=white>
         <div style="max-width: 755; margin: auto">
         <img src=images/updated_festival_logo.jpg width=755>
         <p>
         <table width=100%>
         <tr>
     ';
-    show_link($link1, 'home.php', $this);
+    show_link($link1, 'index.php', $this);
     show_link($link2, 'musicians.php', $this);
     show_link($link3, 'programs.php', $this);
     show_link($link4, 'old_programs.php', $this);
     show_link($link5, 'place.php', $this);
     show_link($link6, 'info.php', $this);
-    $ht = ($this == 'home.php')?'height:800px':'';
+    $ht = ($this == 'index.php')?'height:800px':'';
     echo "
         </tr>
         </table>
-        <div style=\"background-image: url('images/newpinkbackground.jpg'); background-repeat: repeat; width:755px; $ht\">
+        <div style=\"background-image: url('images/pinkbackground.jpg'); background-repeat: repeat; width:755px; $ht\">
         <p> <p>&nbsp; <p>
     ";
 }

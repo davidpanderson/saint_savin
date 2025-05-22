@@ -22,9 +22,9 @@ function main() {
                     <font size=+1>
                         $home2
                         <p>
-                        <a href=foo>$home3</a>
+                        <a href=info.php>$home3</a>
                         <p>
-                        <a href=foo><img src=images/facebook.jpg width=80></a>
+                        <a href=https://www.facebook.com/MusiqueAncienneSaintSavin><img src=images/facebook.jpg width=80></a>
                     </font>
                 </td>
             </tr>
