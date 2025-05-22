@@ -5,7 +5,7 @@ require_once('text_home');
 
 function main() {
     global $home1, $home2, $home3;
-    head('home.php');
+    head('index.php');
     echo "
         <center>
     ";
