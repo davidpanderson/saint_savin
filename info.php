@@ -37,6 +37,8 @@ function main() {
         </table>
     ";
 
+    heading('Nos partenaires', true);
+
     echo '
         <table cellpadding=10>
         <tr>
@@ -51,7 +53,7 @@ function main() {
             <img src="images/screen shot 2014-07-01 at 75434 am.jpg">
             <p style="background-color: white">
             &nbsp;
-            <img style="images/background-color: white" src="viscos logo.png">
+            <img style="background-color: white" src="images/viscos logo.png">
             &nbsp;
             <br>&nbsp;
             </p>
