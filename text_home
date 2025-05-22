@@ -1,0 +1,17 @@
+<?php
+
+$home1 = '
+Rendez-vous cet été à Saint-Savin!
+<br> Le Festival aura lieu du 28 juillet au 6 Août 2024
+';
+
+$home2 = '
+Pour célébrer sa seizième édition, le festival de Saint-Savin offre cet été un programme spécialement riche et varié. Superbe musique baroque dont les accents font résonner les belles églises de la région, démonstration de danse, petit concert pour les enfants (et les grands) au bistro-librairie Le Kairn d’Arras, tout ceci à des tarifs abordables pour toute la famille.
+<p>
+De quoi passer une incomparable semaine culturelle dans nos Pyrénées!
+<p>
+- Maryse Carlin, Directrice du Festival
+';
+
+$home3 = 'Vous rendre au Festival';
+

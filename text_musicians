@@ -1,0 +1,68 @@
+<?php
+
+$maryse = "
+<b>Maryse Carlin</b>, clavecin,  joue tant en soliste qu'en musique de chambre, comme claveciniste, fortepianiste et pianiste. Elle a joué en soliste avec Leonard Slatkin, Roger Norrington et Nic Mc Gegan entre autres, et s'est produite au Lincoln Center et au Carnegie Recital Hall à New York. Elle a enregistré des suites de Rameau et Forqueray pour Naiad Records ainsi que des oeuvres de Schubert à quatre mains avec Seth Carlin sur un pianoforte Graf. Elle a joué en Allemagne, Autriche, Suisse, Italie, et en Chine. Maryse est directeur de l'Ensemble Kingsbury, un groupe de musique baroque basé aux Etats-Unis, et co-fondatrice et directeur artistique du Festival de Musique Ancienne de Saint Savin.
+";
+
+$severine = "
+<b>Séverine Dervaux</b> a travaillé aux côtés de Samuel Jean et du Chœur Symphonique Avignon Provence pour la Création de Haydn, la Neuvième Symphonie de Beethoven et la Messe en Si de Bach. Elle assiste aussi souvent Pascale Verdier lors de stages de musique baroque ou durant quelques années avec le chœur Concerto.
+<p> 
+ L’Ensemble Vocal Émergence a été créé en 2016 sous l’impulsion de Séverine Dervaux et de quelques amis. Émergence a pour pour objectif de faire découvrir le chant choral  au travers d’œuvres variées, originales ou peu données, avec la volonté de présenter des concerts de qualité.
+";
+
+$clea = "
+<b>Clea Galhano</b>, née au Brésil, est connue pour la variété  de ses interprétations qui vont de la musique ancienne  à la musique contemporaine, ainsi qu’à la musique populaire brésilienne. Elle se produit en tant que soliste et partenaire de musique de chambre en Amérique du Sud, aux Etats-Unis, au Canada et en Europe. Elle a joué sous la direction de Christophe Hogwood et Nicholas McGegan entre autres, et a enregistré plusieurs disques de musique baroque et brésilienne. Cléa est aussi professeur à Macalester College et professeur au Département de Musique Ancienne de Bloomington. Elle donne de nombreux cours d’interprétation aux Etats Unis, au Brésil et en Europ.
+";
+
+$elfa = "
+<b>Elfa Run Kristinsdottir</b>, violon s’est faite connaitre en 2006 en obtenant à l’age de 21 ans le Grand Prix, le Prix du Public, et le prix pour du plus jeune finaliste au concours international Jean Sebastien Bach de Leipzig (Allemagne). La même année, elle gagne le prix de la fondation Pro Europa pour la Culture. Après avoir grandi en Islande, Elfa fait partie depuis 2006 de l’Ensemble Kaleidoscope de Berlin, et le dirige depuis 2008. Elle est aussi souvent engagée comme soliste et leader de l’ensemble « Alte Musik Berlin ». Elle a enregistré plusieurs albums dont des oeuvres de Telemann et les partitas pour violon seul de Bach, pour lesquels elle a recu des critiques enthousiastes. Elle se produit dans de nombreux festivals tels que le Bachfest de Leipzig, le festival de Sydney (Australie), de Berkeley (Etats Unis).
+";
+
+$hanna = "
+<b>Hanna Lindeijer</b>, hautbois et flûte à bec, étudie au Conservatoire Royal de La Haye, d’abord la flûte à bec, puis le hautbois baroque avec Frank de Bruine. Elle obtient  un Masters et concentre sa thèse de recherche sur les anches historiques de l’époque  baroque. Pendant ses études, elle joue avec Holland Baroque, le Luther Bach Ensemble, l’Orchestre du 18ème  siècle, le Concerto d’Amsterdam, le Neferlandse Bach Vereniging, Concerto Copenhagen, l’Academy of Ancient Music, and la Koelner Akademie. Elle est premier hautbois avec l’orchestre baroque Musica Amphion dirigé par Pieter-Jan Belder, et avec le Concerto d'Amsterdam.
+";
+
+$lina = "
+<b>Lina Marcela Lopez</b>, soprano
+<p>
+Originaire de Colombie, Lina collabore avec de nombreux ensembles spécialisés avec lesquels elle participe à des enregistrements : Les Vêpres de Claudio Monteverdi avec l’ensemble La Fenice (Jean Tubery), musiques baroques sud-américaines avec l’ensemble Musica Temprana.
+<p>
+Passionnée par la musique de chambre et la polyphonie, elle chante également avec des ensembles tels que Concerto Soave (Jean-Marc Aymes), La Chapelle Harmonique (Valentin Tournet), Daimonion Ensemble (Anaïs Chen-Maria Gonzale)
+";
+
+$loriane = "
+<b>Loriane Lorca</b>. Orgue
+<p>
+Originaire de la région, Loriane donne de nombreux concerts en soliste et dans diverses formations en France et à l’étranger; elle est aussi très régulièrement sollicitée par l’Orchestre de Paris et la Philharmonie de Paris pour les concerts avec orgue. Élève d’Olivier Latry, elle a été artiste en résidence au Centre de Musique Baroque de Versailles, et à la cathédrale Saint Louis à la Nouvelle Orléans. Passionnée par l’immense répertoire de musique du moyen âge à aujourd’hui, Loriane propose de nombreux projets musicaux autour de l’orgue et de l’orgue portatif.
+";
+
+$diane = "
+Claveciniste, violoniste, altiste et danseuse baroque, <b>Diane Mond</b> est diplômée des conservatoires de Strasbourg et Versailles, où elle étudié avec S. Pfister, P. Cohen-Akenine, B. Rannou, M. Gester entre autres. Elle a suivi les masterclasses d’artistes renommés, en musique (A. Beyer, S. Kuijken, P. Hantaï, S. Gent), comme en danse (M.G. Massé, C. Gracio Moura, G. Poirier) et a joué dans de nombreux ensembles de musique de chambre et orchestres baroques en région parisienne (Collegium de l’OJIF, Bach Collegium Strasbourg Ortenau, CMBV), qui lui ont permis de jouer à la Philharmonie de Paris, ou à la Chapelle Royale et à l’Opéra Royal du Château de Versaille.
+";
+
+$diego = "
+<b>Diego Salamanca</b>, luth, théorbe
+<p>
+Attiré par le répertoire baroque pour le luth et les instruments à cordes pincées, Diego participe régulièrement à des productions de musique scénique ou de chambre, ainsi qu'à des enregistrements. Entre autres, il s'est produit sous la direction de Phillip Picket, Christophe Coin, Gabriel Garrido, William Christie, Kenneth Weiss, Gérard Lesne, Skip Sempé. Par ailleurs, il a eu l'occasion de travailler sur le répertoire de luth auprès de Hopkinson Smith et Paul o’Dette.
+";
+
+$flore = "
+Après un cursus complet au Conservatoire de Brest, <b>Flore Seube</b> poursuit ses études CNSMD de Lyon où elle a obtenu un Master en 2013 dans la classe de Marianne Muller. Elle suit ensuite un Perfectionnement à la Schola Cantorum de Bâle avec Paolo Pandolfo.
+<p>
+ Elle se produit régulièrement en France et à l’étranger, en tant que soliste et au sein d’ensembles (Concerto Soave, l’ensemble Correspondances, l’ensemble Clément Janequin, Les Nouveaux Caractères, l’ensemble Consonance, Les Siècles…).
+<p>
+ Sa carrière l’a menée à jouer en France, en Belgique, en Hollande, en Suisse, en Allemagne, en Italie et au Canada. Elle enseigne la viole de gambe au Conservatoire de Caen.
+";
+
+$aurelie = "
+Après des études à Paris, <b>Aurélie Toucouère</b> obtient une licence de musicologie et un DEM d’alto en 2003, puis le Diplôme d’Etat de professeur d’alto en 2005. Après avoir travaillé à Compiègne, où elle fût membre du quatuor Lodi et de l'orchestre Col Legno, elle vient s’installer dans le Béarn en 2008.  Enseignant la musique sous diverses formes, elle devient également chef de chœur et d'orchestre. Elle poursuit sa pratique de l'orchestre et de la musique de chambre, actuellement au sein de l'ensemble Eugénie
+";
+
+$vladimir = "
+<b>Vladimir Waltham</b>, violoncelle, étudie aux conservatoires de Pau et Toulouse, puis intègre l’école de musique Guildhall de Londres où il obtient un Masters de Musique avec distinction  en 2012. L’année suivante, il obtient un prix de la Fondation « Jumpstart » qui lui confie un violoncelle de Nicola Gagliano sur lequel il joue depuis. Il joue avec ses ensembles de musique de chambre, le « Lino Piano Trio » et le quatuor Hieronymus  avec lesquels il a gagné plusieurs prix internationaux.  Il est aussi premier violoncelle de “La Serenissima”. Vladimir se produit dans les salles telles que Wigmore Hall, Barbican, St Martin in the Fields en Angleterre, ainsi qu’au Concertgebouw d’Amsterdam, Sumida Triphony a Tokyo, et au Centre Schoenberg de Vienne.
+";
+
+$claire = "
+<b>Claire Zarembowitch</b>, violon, est diplômée du Conservatoire National Supérieure de Musique de Lyon et fut violoniste à l'Orchestre National du Capitole de Toulouse pendant 13 ans. En 1999, elle est nommée professeur au Conservatoire à Rayonnement Départemental de Pau et violon solo de l'Orchestre de Pau Pays de Béarn. Elle est régulièrement sollicitée dans des formations de musique ancienne, tels l'Ensemble Baroque de Toulouse, l'Orchestre Les Passions et l'Ensemble Baroque Thésis;
+";
+

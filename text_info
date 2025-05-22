@@ -1,0 +1,56 @@
+<?php
+
+$info1 = 'Se rendre à Saint Savin';
+
+$info2 = "
+<h2>Où trouver les concert
+</h2>
+<p>
+Abbatiale de Saint Savin: 1, place du Castet - 65400 Saint-Savin-en-Lavedan - tél. 05.62.97.02.23
+<p>
+Eglise de Nestalas, Pierrefite-Nestalas 65260
+<p>
+Eglise d'Arras-en-Lavedan 65400
+<p>
+Bistro-Librairie Le Kairn, 20 route du Val d'Azun, Arras en Lavedan 65400
+<p>
+Eglise Saint Martin d'Arcizans-Avant, 16 rue de l'Eglise, Arcizans-Avant 65400
+
+<h2>Les Billets</h2>
+<p> 
+Les billets sont disponibles en appelant
+<br>
+Le 06 14 17 19 88 ou
+<br>
+Le 05 62 42 56 49  (pendant le festival)
+<br>
+Et à l’entrée des concerts.
+
+<p>
+25 euros pour adultes
+<br>
+15 euros handicapés, demandeurs d’emploi, et étudiants
+<br>
+Gratuit pour les moins de 15 ans
+<p>
+Conférence-démonstration du 30 juillet: 10€
+<br>
+Concert des enfants au Kairn : 5 €
+<br>
+Famille de 3 enfants et plus: 15 €
+
+<h2>Contact</h2>
+<p>
+Pour tout renseignement:
+<br>
+06 14 17 19 88 (secrétariat)
+<br>
+05 62 42 56 49 (pendant le festival)
+<br>
+05 62 97 02 23 (Abbatiale de St Savin)
+<br>
+email:
+<a href=mailto:musiqueanciennepaysdesgaves@gmail.com>
+musiqueanciennepaysdesgaves@gmail.com
+</a>
+";
