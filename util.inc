@@ -2,19 +2,26 @@
 
 error_reporting(E_ALL);
 
-function show_link($title, $page, $this) {
-    if ($page == $this) {
-        echo sprintf('<td align=center style="font-size:18px">%s</td>', $title);
+define('FONT_MED', 'style="font-size:20"');
+define('FONT_SMALL', 'style="font-size:18"');
+
+function show_link($title, $page, $this_page) {
+    if ($page == $this_page) {
+        echo sprintf(
+            '<td align=center %s>%s</td>', FONT_MED, $title
+        );
     } else {
         echo sprintf(
-            '<td align=center style="font-size:18px"><a href=%s>%s</a></td>',
-            $page, $title
+            '<td align=center %s><a href=%s>%s</a></td>',
+            FONT_MED, $page, $title
         );
     }
 }
 
-function heading($text) {
+function heading($text, $center) {
+    if ($center) echo "<center>";
     echo "<font size=+3>$text</font>";
+    if ($center) echo "</center>";
 }
 
 function head($this) {
@@ -58,6 +65,31 @@ function tail() {
         </body>
         </html>
     ';
+}
+
+function show_concert($c) {
+    echo sprintf('
+        <tr>
+            <td style="width:220px; font-size:20" valign=top>%s</td>
+            <td %s valign=top>
+                <b>%s</b>
+                <br>
+                %s
+            </td>
+        </tr>
+        ',
+        $c[0], FONT_MED, $c[1], $c[2]
+    );
+}
+
+function show_year($year, $concerts) {
+    $title = "Programme du Festival $year";
+    heading($title, true);
+    echo "<table cellpadding=15 width=100%>";
+    foreach ($concerts as $concert) {
+        show_concert($concert);
+    }
+    echo "</table>";
 }
 
 ?>

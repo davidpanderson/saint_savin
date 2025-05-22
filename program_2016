@@ -1,0 +1,70 @@
+<?php
+
+$program_2016 = [
+[
+    "
+    Dimanche 31 Juillet, 19h30
+    <br>
+    Eglise d'Arcizans-Avant
+    ",
+    "
+    Duo Musical
+    ",
+    "
+    Elfa Kristindottir, violon, et Vladimir Waltham, violoncelle, tous deux à Il'aube d'une brillante carrière internationale, présentent un programme d'oeuvres originales et de transcriptions dans l'église baroque «d'Arcizans-Avant. Oeuvres de Mozart et ses contemporains
+    "
+],
+[
+    "
+    Mardi 2 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    « Café Zimmermann »
+    ",
+    "
+    Cet établissement, renommé de Leipzig accueillit, de 1720 a 1741, une série de concerts organisés d'abord par Télémann, puis par Jean- Sebastien Bach qui en prit la succession en 1729. Les deux compositeurs y présentèrent au public une grande partie de leurs oeuvres instrumentales, telles que le concerto pour violon en mi majeur, et le quatrième concerto brandebourgeois de Bach, la sonate pour hautbois de chasse et celle pour violoncelle de Telemann.
+    "
+],
+[
+    "
+    Jeudi 4 Août, 19h30
+    <br>
+    église de Pierrefite Nestalas
+    ",
+    "
+    Venise et l'Orient
+    ",
+    "
+    La République de Venise, état indépendant en possession de nombreux territoires et comptoirs commerciaux tout autour de la Méditerranée, occupa une place préponderante dans les échanges économiques et culturels entre l'Occident et l'Orient, tant byzantin que musulman. Ce programme met en valeur les échanges musicaux entre la Venise baroque et ses voisins orientaux.
+    "
+],
+[
+    "
+    Dimanche 7 Août, 19h30
+    <br>
+    église d'Arras en Lavedan
+    ",
+    "
+    « Liederabend »
+    ",
+    "
+    Laura Holm, soprano, Gilles Thomé, clarinette, et Seth Carlin, pianoforte, nous transportent dans un authentique salon musical du 19ème siècle, avec des lieder et pièces instrumentales de Mendelssohn, Meyerbeer, Spohr, et bien sur, Schubert! Dans l'acoustique idéale et le magnifique panorama de l'église d'Arras en Lavedan.
+    "
+],
+[
+    "
+    Mardi 9 Août, 20h30
+    <br>
+    abbatiale de Saint Savin
+    ",
+    "
+    Virtuosité Italienne
+    ",
+<<<EOT
+    La cantate italienne fait appel a la musicalité, et l'expressivité de ses interprètes, mais aussi exige d'époustouflantes prouesses techniques qui font de ces pièces de véritables morceaux de bravoure. Les cantates "Nisi Dominus” de Vivaldi, et la tragique "Médée” de Caldara,
+    interprétées par Néréa Berraondo, sont deux brillants exemples de ce genre musical.
+EOT
+],
+];

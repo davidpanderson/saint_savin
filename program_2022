@@ -1,0 +1,72 @@
+<?php
+
+$program_2022 = [
+[
+    "
+    Samedi 30 Juillet, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    Telemann, Rameau, Forqueray.
+    ",
+    "
+    Flore Seube, viole de gambe, Diane Omer, danse.
+    "
+],
+[
+    "
+    Mardi 2 Août, 19h30
+    <br>
+    Eglise d’Arcizans-Avant
+    ",
+    "
+    “Mondes nouveaux en musique
+    ",
+    "
+    Oeuvres de Bach, Lully, Mozart.
+    Laura Holm, soprano.
+    "
+],
+[
+    "
+    Jeudi 4 Août, 19h30
+    <br>
+    Eglise de Pierrefitte-Nestalas
+    ",
+    "
+    “Duo/Duelles de violoncelles!
+    ",
+    "
+    Nabi Cabestany, Ken Kuloa, violoncelles,
+    Heidi Tsai, clavecin, Margaret Humphrey, violon, Musique de Tartini, Marcello, Barrière.
+    "
+],
+[
+    "
+    Samedi 6 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    Zarzuelas d'Espagne
+    ",
+    "
+    Nerea Berraondo, soprano
+    "
+],
+[
+    "
+    Mardi 9 Août, 19h30
+    <br>
+    Eglise d'Arras en Lavedan
+    ",
+    "
+    “Musique de Cuba et d'Amérique du Sud”, du
+    17ème au 20 ème siècle.
+    ",
+    "
+    René Izquierdo, guitare et Cléa Galhano, flûte à bec.
+    "
+]
+];

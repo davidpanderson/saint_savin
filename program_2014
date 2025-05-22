@@ -1,0 +1,55 @@
+<?php
+
+$program_2014 = [
+[
+    "
+    Mardi 5 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    Musique de Haendel et Telemann:
+    ",
+    "
+    Deux des génies les plus prolifiques de la musique baroque allemande, Telemann et Haendel ont développé le genre de la sonate pour instruments variés et celui de la cantate, dans lesquels tous deux ont excellé par leur originalité d’écriture et leur imagination musicale.
+    "
+],
+[
+    "
+    Jeudi 7 Août, 19h
+    <br>
+    Eglise d'Arras en Lavedan
+    ",
+    "
+    Beethoven et Boccherini
+    ",
+    "
+     Boccherini est né en Italie, mais fut employé comme musicien à la cour de Vienne lors de son séjour en Autriche. Sa musique de chambre s’inspire de celle de Haydn, tout en donnant au violoncelle et a la guitare un rôle nouveau dans le quatuor à cordes. Beethoven fut lui-même l’élève de Haydn et représente la nouvelle génération du classicisme viennois et la transition vers le romantisme.
+    "
+],
+[
+    "
+    Samedi 9 Août, 18h
+    <br>
+    Eglise de Pierrefitte-Nestalas
+    ",
+    "
+    Les plaisirs de Versailles
+    ",
+    "
+     Couperin et Rameau étaient parmi les compositeurs les plus renommés à la cour de France, et leur musique fut influencée par les musiciens et comédiens italiens de passage en France. Couperin rendit hommage à Corelli avec son « Apothéose de Corelli » et l’écriture instrumentale de Rameau évoque la virtuosité des italiens, représenté par Marcello, Vivaldi, et Corelli dans ce programme.
+    "
+],
+[
+    "
+    Mardi 12 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    Un siècle de Bach : Oeuvres de Jean-Sébastien et ses fils:
+    ",
+    "
+ Carl Philippe Emanuel et Jean-Chrétien sont deux des fils de Bach qui firent carrière comme concertistes et compositeurs. Ce programme salue particulièrement Jean-Sébastien et Carl Philip Emanuel, dont nous célebrons cette année le 300ème anniversaire."
+]
+];

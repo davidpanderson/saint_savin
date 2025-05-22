@@ -1,0 +1,91 @@
+<?php
+
+$program_2024 = [
+[
+    'Dimanche 28 Juillet,19h30
+    <br>
+    Église d’Arcizans-Avant
+    ',
+    "Richesse et Variété du Baroque",
+    "Pour ouvrir le festival, et célébrer notre 16ème anniversaire, un kaléidoscope musical qui met en valeur une variété d'instruments et d'œuvres de diverses périodes: violons, flûte à bec, hautbois, violoncelle et clavecin rivalisent de virtuosité dans -ce programme brillant et joyeux, Oeuvres de
+    Stradella, Alessandro Scarlatti, Lanzetti, Janitsch et Bach."
+],
+[
+    'Lundi 29 Juillet, 18h00
+    <br>
+    Salle de la mairie de Saint-Savin',
+    "L'évolution des instruments à travers l'histoire",
+    "Conférence-Démonstration de Diane Omer-Nguyen, suivie d'un apéritif au Bistrot de l'Abbaye, et animation sur la place avec les musiciens!
+    "
+],
+[
+    "
+    Mardi 30 Juillet,
+    <br>
+    17h00-17h30 pour les 0-6 ans
+    <br>
+    18h00-18h30 pour les 6-9 ans
+    <br>
+    Bistro-Librairie Le Kairn
+    ",
+    "
+    Spectacle pour les enfants
+    ",
+    "
+    Histoires de Myrtille la Marmotte, d'après les contes de Raphaëlle Jessic. Animé par Diane Omer-Nguyen et des musiciens du festival.
+    "
+],
+[
+    "
+    Mercredi 31 Juillet, 20h30
+    <br>
+    Abbatiale de Saint-Savin
+    ",
+    "
+    L'orgue dans les pays méditerranéens
+    ",
+    "
+    Loriane Llorca, jeune et brillante organiste -originaire de la région, fera résonner les voûtes de l'abbatiale, avec des pièces de Frescobaldi,
+    Cabezón, Cabanilles, Marini et autres compositeurs contemporains de l'orgue Renaissance de Saint- Savin. Avec le concours de Cléa Galhano, Margaret Humphrey et Flore Seube.
+    "
+],
+[
+    "
+    Vendredi 2 Août, 19h30
+    <br>
+    Église d'Arras-en- Lavedan
+    ",
+    "
+    Du Baroque au Classique
+    ",
+    "
+    Des oeuvres inédites et ludiques pour ce deuxième kaléidoscope musical avec « Le voyage de Gulliver » de Telemann, un concerto pour violoncelle de Leonardo Léo, un concerto pour violon et hautbois de Fasch, des pièces de Duphly pour clavecin, et La Tempesta di Mare de Vivaldi, feront découvrir une musique nouvelle pleine de charme et de couleurs.
+    "
+],
+[
+    "
+    Dimanche 4 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    L'Europe spirituelle
+    ",
+    "
+    avec le chœur Émergence de Pau, dirigé par Séverine Dervaux, accompagné par des cordes et orgue portatif. Les musiques de Charpentier, Lotti, Buxtehude, célèbreront le renouveau de l'abbatiale après plusieurs mois de restauration.
+    "
+],
+[
+    "
+    Mardi 6 Août, 19h30
+    <br>
+    Église de Pierrefitte-Nestalas
+    ",
+    "
+    Concerto delle Donne
+    ",
+    "
+    Pour conclure le Festival, un programme dédié aux talentueuses compositrices baroques de France et d'Italie avec Lina Lopez, soprano, Diego Salamanca, théorbe et un groupe de cordes. Musique pleine de sensibilité, mais aussi d'humour et de passion par Francesca Caccini. Barbara Strozzi, Isabella Leonarda, Elisabeth Jacquet de la Guerren.
+    "
+]
+];

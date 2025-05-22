@@ -2,9 +2,10 @@
 
 require_once('util.inc');
 require_once('text_info');
+require_once('google_key');
 
 function main() {
-    global $info1, $info2;
+    global $info1, $info2, $google_key;
     head('info.php');
     echo "
         <table cellpadding=10>
@@ -16,7 +17,12 @@ function main() {
     echo '
     <div style="max-width:100%;overflow:hidden;color:red;width:400px;height:400px;">
     <div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;">
-    <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Saint-Savin+65400&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
+    ';
+    echo sprintf(
+        '<iframe style="height:100%%;width:100%%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Saint-Savin+65400&key=%s">',
+        $google_key
+    );
+    echo '
     </iframe>
     </div>
     <style>#embedded-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style>

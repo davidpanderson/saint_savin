@@ -12,13 +12,15 @@ function show($pic, $text, $pic_left) {
         $x1 = $text;
         $x2 = $p;
     }
-    echo "<table cellpadding=20>
-        <tr>
-            <td valign=top>$x1</td>
-            <td valign=top>$x2</td>
-        </tr>
-    </table>
-    ";
+    echo sprintf('
+        <table cellpadding=20>
+            <tr>
+                <td valign=top %s>%s</td>
+                <td valign=top %s>%s</td>
+            </tr>
+        </table>
+        ', FONT_SMALL, $x1, FONT_SMALL, $x2
+    );
 }
 
 function main() {

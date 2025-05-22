@@ -1,0 +1,72 @@
+<?php
+
+$program_2017 = [
+[
+    "
+    Dimanche 30 Juillet, 19h
+    <br>
+    Eglise d'Arcizans-Avant
+    ",
+    "
+    « Pleins feux sur le continuo
+    ",
+    "
+    Le clavecin et le violoncelle restent souvent dans l'ombre pendant le concert, assumant le role de continuo”, accompagnement
+    indispendable mais discret. Ce programme met ces instruments et leur repertoire en vedette, les doublant qui plus est! Concertos et sonates, solos et duos où deux clavecins et deux violoncelles dialoguent dans des formations inédites. Oeuvres de Bach, Boccherini, Soler avec Heidi Tsai et Maryse Carlin, clavecins, Ken Kulosa et Nabi Cabestany, violoncelles.
+    "
+],
+[
+    "
+    Mardi 1er Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    Chants et rhythmes d'Espagne »
+    ",
+    "
+    La musique espagnole possède depuis l'époque baroque un caractère national bien défini grâce a ses rythmes issus des danses populaires et ses mélodies pleines d'emotion et de spontaneité. Ce programme met en valeur plusieurs compositeurs: José de Nebra, Santiago de Murcia, ainsi que Sebastian Durron, qui vécut la deuxième partie de sa vie au Pays Basque. A travers leur musique, Amaia Azcona et les musiciens du festival nous ferons découvrir ce répertoire chaleureux et haut en couleur.
+    "
+],
+[
+    "
+    Jeudi 3 Août, 19h30
+    <br>
+    Eglise d'Arras en Lavedan
+    ",
+    "
+    Voyage en Arcadie
+    ",
+    "
+    Au 17ème siècle, les poètes et musiciens dans l'entourage la reine Christine de Suède exilée à Rome, fondent l'Académie d'Arcadie. A la recherche d'un idéal littéraire et musical modelé sur celui de l'ancienne province grecque, des artistes tells que Corelli, Caldara, and Alessandro Scarlatti s'inspirent de thèmes bucoliques pour exprimer, au milieu des fastes de la cour, leur désir d'un retour à l'amour de la nature et à une vie plus simple.
+    "
+],
+[
+    "
+    Samedi 5 Août, 19h
+    <br>
+    Eglise de Pierrefite-Nestalas
+    ",
+    "
+    The Best Of
+    ",
+    "
+    Pour notre dixième anniversaire, quelques unes des pièces préférées de notre repertoire, au cours des neuf années du festival. Avec Cléa
+    Galhano, Margaret Humphrey, Vladimir Waltham, et Heidi Tsai, Musique de Bach, Biber, Barrière, Rosenmuller. Virtuosité et passion garanties!
+    Retrouvez-nous après le concert pour un verre de champagne à l'Hôtel de France.
+    "
+],
+[
+    "
+    Lundi 7 Août, 20h30
+    <br>
+    Abbatiale de Saint Savin
+    ",
+    "
+    * Haendel et Telemann»
+    ",
+    "
+    Anne-Marie Beaudette et l'orchestre du festival nous offrent en concert de cloture, de magnifiques cantates et pièces instrumentales de ces deux génies du baroque allemand. Tous deux doués d'une inépuisable inspiration ils ont composé des centaines d'oeuvres qui offrent un plaisir sans cesse renouvelé, et dont l'imagination et la créativité nous époustouflent.
+    "
+],
+];
