@@ -39,12 +39,14 @@ function main() {
 
     heading('Nos partenaires', true);
 
-    echo '
+    echo sprintf('
         <table cellpadding=10>
         <tr>
-        <td valign=top align=center>
+        <td valign=top align=center %s>
             <img src="images/au clavier bien tempere-crop-u4241.jpg">
             <p>
+            Arras en Lavedan
+            <br>
             <img src="images/logo.jpg">
         <td>
         <td valign=top align=center>
@@ -66,7 +68,8 @@ function main() {
             <img src="images/freqluz.jpg">
         <td>
         </table>
-    ';
+        ', FONT_SMALL
+    );
     tail();
 }
 
