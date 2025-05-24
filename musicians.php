@@ -4,7 +4,7 @@ require_once('util.inc');
 require_once('text_musicians');
 
 function show($pic, $text, $pic_left) {
-    $p = "<img src=\"images/$pic\">";
+    $p = "<img width=280 src=\"images/$pic\">";
     if ($pic_left&1) {
         $x1 = $p;
         $x2 = $text;
