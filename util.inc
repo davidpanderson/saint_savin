@@ -43,12 +43,12 @@ function head($this_page) {
         <table width=100%>
         <tr>
     ';
-    show_link($link1, 'index.php', $this);
-    show_link($link2, 'musicians.php', $this);
-    show_link($link3, 'programs.php', $this);
-    show_link($link4, 'old_programs.php', $this);
-    show_link($link5, 'place.php', $this);
-    show_link($link6, 'info.php', $this);
+    show_link($link1, 'index.php', $this_page);
+    show_link($link2, 'musicians.php', $this_page);
+    show_link($link3, 'programs.php', $this_page);
+    show_link($link4, 'old_programs.php', $this_page);
+    show_link($link5, 'place.php', $this_page);
+    show_link($link6, 'info.php', $this_page);
     $ht = ($this_page == 'index.php')?'height:800px':'';
     echo "
         </tr>
