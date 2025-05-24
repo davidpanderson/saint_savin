@@ -24,7 +24,7 @@ function heading($text, $center) {
     if ($center) echo "</center>";
 }
 
-function head($this) {
+function head($this_page) {
     $link1 = 'Accueil';
     $link2 = 'Les Musiciens';
     $link3 = 'Programmes';
@@ -49,7 +49,7 @@ function head($this) {
     show_link($link4, 'old_programs.php', $this);
     show_link($link5, 'place.php', $this);
     show_link($link6, 'info.php', $this);
-    $ht = ($this == 'index.php')?'height:800px':'';
+    $ht = ($this_page == 'index.php')?'height:800px':'';
     echo "
         </tr>
         </table>
