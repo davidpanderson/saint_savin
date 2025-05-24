@@ -24,7 +24,25 @@ function show($pic, $text, $pic_left) {
 }
 
 function main() {
-    global $maryse, $severine, $clea, $elfa, $hanna, $lina, $loriane, $diane, $diego, $flore, $aurelie, $vladimir, $claire;
+    global $aurelie;
+    global $claire;
+    global $clea;
+    global $daphne;
+    global $diane;
+    global $diego;
+    global $elfa;
+    global $flore;
+    global $hanna;
+    global $jesus;
+    global $lina;
+    global $lise;
+    global $loriane;
+    global $margaret;
+    global $maryse;
+    global $peter;
+    global $severine;
+    global $susan;
+    global $vladimir;
 
     head('musicians.php');
     $i = 0;
