@@ -5,7 +5,7 @@ require_once('text_musicians');
 
 function show($pic, $text, $pic_left) {
     $p = "<img src=\"images/$pic\">";
-    if ($pic_left) {
+    if ($pic_left&1) {
         $x1 = $p;
         $x2 = $text;
     } else {
@@ -27,19 +27,28 @@ function main() {
     global $maryse, $severine, $clea, $elfa, $hanna, $lina, $loriane, $diane, $diego, $flore, $aurelie, $vladimir, $claire;
 
     head('musicians.php');
-    show('maryse.jpg', $maryse, true);
-    show('severine.jpg', $severine, false);
-    show('clea photo bedous.jpg', $clea, true);
-    show('elfa.jpg', $elfa, false);
-    show('hanna.jpg', $hanna, true);
-    show('lina.jpg', $lina, false);
-    show('loriane.jpg', $loriane, true);
-    show('diane mond.jpg', $diane, false);
-    show('image1.jpg', $diego, true);
-    show('flore seube.jpg', $flore, false);
-    show('aurelie-crop-u3799.jpg', $aurelie, true);
-    show('vlad.jpg', $vladimir, false);
-    show('claire2.jpg', $claire, true);
+    $i = 0;
+    show('maryse.jpg', $maryse, $i++);
+    show('daphne.jpg', $daphne, $i++);
+    show('susan.jpg', $susan, $i++);
+    show('peter.jpg', $peter, $i++);
+    show('margaret.jpg', $margaret, $i++);
+    show('clea photo bedous.jpg', $clea, $i++);
+    show('elfa.jpg', $elfa, $i++);
+    show('hanna.jpg', $hanna, $i++);
+    show('jesus.jpg', $jesus, $i++);
+    show('image1.jpg', $diego, $i++);
+    show('aurelie-crop-u3799.jpg', $aurelie, $i++);
+    show('vlad.jpg', $vladimir, $i++);
+    show('lise.jpg', $lise, $i++);
+    show('claire2.jpg', $claire, $i++);
+
+    //show('margaret.jpg', $Margaret, $i++);
+    //show('lina.jpg', $lina, $i++);
+    //show('loriane.jpg', $loriane, $i++);
+    //show('diane mond.jpg', $diane, $i++);
+    //show('flore seube.jpg', $flore, $i++);
+    //show('severine.jpg', $severine, $i++);
     tail();
 }
 
