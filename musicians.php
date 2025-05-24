@@ -47,18 +47,18 @@ function main() {
     head('musicians.php');
     $i = 0;
     show('maryse.jpg', $maryse, $i++);
-    show('daphne.jpg', $daphne, $i++);
-    show('susan.jpg', $susan, $i++);
-    show('peter.jpg', $peter, $i++);
-    show('margaret.jpg', $margaret, $i++);
+    show('daphne.jpeg', $daphne, $i++);
+    show('susan.jpeg', $susan, $i++);
+    show('peter.jpeg', $peter, $i++);
+    show('margaret.jpeg', $margaret, $i++);
     show('clea photo bedous.jpg', $clea, $i++);
     show('elfa.jpg', $elfa, $i++);
     show('hanna.jpg', $hanna, $i++);
-    show('jesus.jpg', $jesus, $i++);
+    show('jesus.jpeg', $jesus, $i++);
     show('image1.jpg', $diego, $i++);
     show('aurelie-crop-u3799.jpg', $aurelie, $i++);
     show('vlad.jpg', $vladimir, $i++);
-    show('lise.jpg', $lise, $i++);
+    show('lise.jpeg', $lise, $i++);
     show('claire2.jpg', $claire, $i++);
 
     //show('margaret.jpg', $Margaret, $i++);
