@@ -1,0 +1,71 @@
+<?php
+
+$program_2025 = [
+[
+"Mardi 29 Juillet, 20h30<br>Abbatiale de Saint-Savin",
+"«  Voyage en Bohême »",
+"Partez à la découverte d’une musique baroque vive, inventive et pleine de charme !
+Hautbois, violons, violoncelle et clavecin donnent vie à des œuvres tantôt dansantes,
+tantôt poignantes, signées par de talentueux compositeurs bohémiens et silésiens
+comme Janitsch, Krause, ou Zelenka. Un moment de plaisir partagé, à la fois pour les
+musiciens… et pour le public!"
+],
+[
+"Jeudi 31 Juillet, 19h30<br>Église d’Arcizans-Avant",
+"« La famille Bach : Musique de Chambre au cours des générations »",
+"
+Ce concert célèbre l’une des plus remarquables dynasties dans l&#39;histoire de la musique.
+Si Jean-Sébastien en est le membre le plus célèbre, il faisait partie d’une lignée qui
+produisit des générations de compositeurs talentueux, chacun avec un style unique
+formé par son époque. Ses fils Carl Philipp Emanuel et Johann Friedeman, ansi qu’un
+cousin moins connu , Jean-Bernard sont à l’honneur.
+"
+],
+[
+"Saturday 2 Août, 19h30<br> Église de Pierrefitte-Nestalas",
+"« La Sérenissima, splendeurs vénitiennes » oeuvres de Monteverdi, Strozzi,
+Rossi, and Picchi, avec Lise Viricel, soprano",
+"Au 17ème siècle, Venise s’imposait non seulement en tant que république maritime et
+merveille d’architecture, mais aussi en tant que centre d’innovation musicale. Avec sa
+puissance et son appétit pour les arts, la ville attirait compositeurs, musiciens, et public
+dans un monde où la musique était à la fois spectacle et religion. Ce programme
+explore les sonorités qui jadis résonnaient dans les les églises, les palais et les
+théâtres.."
+],
+[
+"Lundi 4 Août, 20h30<br> Abbatiale de Saint-Savin",
+"« Les petits Hautbois »",
+"Ce concert réunit les timbres chaleureux des hautbois et du basson avec les sonorités
+scintillantes du clavecin, dans un programme qui célèbre la diversité et la vitalité du
+répertoire de musique de chambre baroque. Avec des oeuvres de Lully, Boismortier,
+Handel, Platti, nous découvrons des musiques qui vont de l’élégance de la cour de
+France à l’énergie de Handel et la virtuosité italienne."
+],
+[
+"Mercredi 6 Août, 19h30 Église d’Arras en Lavedan",
+"« Paisages: Images d’Espagne, Argentine, Brésil et Cuba »",
+"Clea Galhano et René Izquierdo sont de parfaits interprètes de ces musiques sud-
+américaines, dont la variété est infinie. Leur duo flûte à bec-guitare est intime et
+expressif. Ces instruments possèdent une sensibilité lyrique et une clarité rythmique qui
+en font les raconteurs rêvés de ces pièces aux traditions de musique populaires,
+associées à des innovations harmoniques de compositeurs tels que Villa-Lobos et
+Piazzola."
+],
+[
+"Vendredi 8 Août, 20h30 Abbatiale de Saint-Savin",
+"Récital d’orgue « la Flandre, carrefour musical »
+Jésus-Martin Moro, présenté avec le concours des Amis de l’Orgue ",
+"A l’époque de la Renaissance et du Baroque, la Flandre s&#39;imposait comme l’un des
+principaux carrefours culturels de l’Europe, un point de rencontre et d’échange entre
+artistes, compositeurs et philosophes. Les villes de la région: Bruges, Ghent, Anvers en
+étaient les centres vitaux d’innovation ou la polyphonie Franco-Flamande fleurissait, et
+les idées d’Italie, France, Angleterre et Allemagne convergeaient et évoluaient. Musique
+de Farnaby, Ashton, Frescobaldi, Scheidt.
+Également pendant le Festival les 4, 5 et 6 Août de 15h à 18h, à l’ancienne Mairie
+de Saint-Savin: venez découvrir des instruments du luthier Michael Batell, dont
+l’atelier est à Berlin. Ses guitares, classiques et flamenco, ses violes de gambes sont
+connues et appréciées des musiciens professionels comme des amateurs dans toute
+l’Europe. Une occasion unique de voir ces beaux instruments de près et de discuter
+avec leur créateur! Entrée libre."
+]
+];
