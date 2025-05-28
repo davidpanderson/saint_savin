@@ -1,7 +1,8 @@
 <?php
 
 $p1 = "
-A quelques kilomètres de Lourdes, le village historique de Saint-Savin domine de toute sa splendeur la vallée d'Argelès, elle même sertie dans l'écrin magnifique des Pyrénées. Hôtels de charme, gîtes, campings, ainsi que d'excellents restaurants qui mettent en valeur la cuisine locale, accueillent les nombreux visiteurs de la région. Les montagnes et les villages environnants offrent un choix d'activités sportives et culturelles pour tous les âges et tous les goûts. L'abbatiale de Saint-Savin fut construite au 12éme siècle sur le site d'un ancien monastère bénedictin fondé au 8ème siècle.
+ A quelques kilometres de Lourdes, le village historique de Saint-Savin domine de toute sa splendeur la vallée d'Argelès, elle même sertie dans l'écrin magnifique des Pyrénées. Hôtels de charme, gîtes, campings, ainsi que d'excellents restaurants qui mettent en valeur la cuisine locale, accueillent les nombreux visiteurs de la région. La montagnes et les villages environnants offrent un choix d'activités sportives et culturelles pour tous les âges et tous les goûts. L'abbatiale fut construite au 12éme siècle sur le site d'un ancien monastère bénedictin fondé au 8eme siècle.
+
 ";
 
 $p2 = "
@@ -9,7 +10,7 @@ L'Ensemble en concert dans l'Abbatiale de Saint Savin
 ";
 
 $p3 = "
-Concert à l'église de Pierrefitte-Nestalas
+Concert à l'eglise de Pierrefitte-Nestalas
 ";
 
 $p4 = "

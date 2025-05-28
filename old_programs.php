@@ -16,7 +16,7 @@ function main() {
     global $program_2016;
     global $program_2014;
     head('old_programs.php');
-    show_year(2022, $program_2024);
+    show_year(2024, $program_2024);
     show_year(2022, $program_2022);
     show_year(2019, $program_2019);
     show_year(2017, $program_2017);
