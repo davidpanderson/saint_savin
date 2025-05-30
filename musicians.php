@@ -40,6 +40,7 @@ function main() {
     global $margaret;
     global $maryse;
     global $peter;
+    global $rene;
     global $severine;
     global $susan;
     global $vladimir;
@@ -60,6 +61,7 @@ function main() {
     show('vlad.jpg', $vladimir, $i++);
     show('lise.jpeg', $lise, $i++);
     show('claire2.jpg', $claire, $i++);
+    show('rene.jpg', $rene, $i++);
 
     //show('margaret.jpg', $Margaret, $i++);
     //show('lina.jpg', $lina, $i++);
