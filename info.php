@@ -43,8 +43,6 @@ function main() {
         <table cellpadding=10>
         <tr>
         <td valign=top align=center %s>
-            <img src="images/au clavier bien tempere-crop-u4241.jpg">
-            <p>
             Arras en Lavedan
             <br>
             <img src="images/logo.jpg">
@@ -64,8 +62,6 @@ function main() {
             <img src="images/pierrefitte.jpg">
             <p>
             <img src="images/conseil general.gif">
-            <p>
-            <img src="images/freqluz.jpg">
         <td>
         </table>
         ', FONT_SMALL
