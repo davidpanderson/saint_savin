@@ -37,7 +37,7 @@ function head($this_page) {
     echo '
         <html>
         <head>
-        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         </head>
         <body style="background-color: black; color: white; font-family: Garamond;" link=white vlink=white>
         <div style="max-width: 755; margin: auto">
