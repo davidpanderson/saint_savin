@@ -38,7 +38,7 @@ $hanna = "
 ";
 
 $jesus = "
-<b>Jesús Martín Moro<b/>débute l’orgue en 1982 dans la classe de Xavier Darasse au Conservatoire National de Région de Toulouse.Titulaire  de l’orgue de Saint-Jean-de-Luz depuis 1987, il a enseigné l’orgue aux Conservatoires de Pampelune (Navarre), puis d’Angoulême et depuis 1993 à celui de Pau. Il mène aussi une carrière de concertiste en Europe et au Mexique. Il a été amené à donner des master-classes en France, en Italie et en Espagne.]
+<b>Jesús Martín Moro</b> débute l’orgue en 1982 dans la classe de Xavier Darasse au Conservatoire National de Région de Toulouse.Titulaire  de l’orgue de Saint-Jean-de-Luz depuis 1987, il a enseigné l’orgue aux Conservatoires de Pampelune (Navarre), puis d’Angoulême et depuis 1993 à celui de Pau. Il mène aussi une carrière de concertiste en Europe et au Mexique. Il a été amené à donner des master-classes en France, en Italie et en Espagne.]
 Il s’intéresse à la restauration d’orgues anciens et à la création d’orgues neufs, et prend part à certaines réalisations en particulier au Pays Basque, comme la création de l’orgue de Saint Etienne de Baïgorry ou de celui d’Urrugne.
 ";
 
@@ -65,7 +65,5 @@ $claire = "
 ";
 
 $rene = "
-
-<b> René Izquierdo<b> guitariste originaire de Cuba, est considéré comme l’un des plus grand virtuoses actuels de la guitare classique. Il est célèbre pour sa faculté d’associer sa technique supérieure de l’instrument avec un don du narratif, pour amener son public à une  expérience musicale d’une rare qualité.René joue plus de 70 concerts par an, tant en solo qu'en musique de chambre or en soliste avec orchestre, aux  Amériques,, en Europe et en Asie. En  plus de son répertoire classique, René maintient contact avec ses origines cubaines et la musique rythmée et expressive de son pays.
-
+<b> René Izquierdo</b> guitariste originaire de Cuba, est considéré comme l’un des plus grand virtuoses actuels de la guitare classique. Il est célèbre pour sa faculté d’associer sa technique supérieure de l’instrument avec un don du narratif, pour amener son public à une  expérience musicale d’une rare qualité.René joue plus de 70 concerts par an, tant en solo qu'en musique de chambre or en soliste avec orchestre, aux  Amériques,, en Europe et en Asie. En  plus de son répertoire classique, René maintient contact avec ses origines cubaines et la musique rythmée et expressive de son pays.
 ";

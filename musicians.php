@@ -61,7 +61,7 @@ function main() {
     show('vlad.jpg', $vladimir, $i++);
     show('lise.jpeg', $lise, $i++);
     show('claire2.jpg', $claire, $i++);
-    show('rene.jpg', $rene, $i++);
+    show('rene2.jpg', $rene, $i++);
 
     //show('margaret.jpg', $Margaret, $i++);
     //show('lina.jpg', $lina, $i++);
