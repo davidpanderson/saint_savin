@@ -55,7 +55,7 @@ function main() {
     show('clea photo bedous.jpg', $clea, $i++);
     show('elfa.jpg', $elfa, $i++);
     show('hanna.jpg', $hanna, $i++);
-    show('jesus.jpeg', $jesus, $i++);
+    //show('jesus.jpeg', $jesus, $i++);
     show('image1.jpg', $diego, $i++);
     show('aurelie-crop-u3799.jpg', $aurelie, $i++);
     show('vlad.jpg', $vladimir, $i++);
