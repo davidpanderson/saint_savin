@@ -13,19 +13,17 @@ function main() {
     echo "
         <p>
         </center>
-        <table cellpadding=10>
+        <table cellpadding=10 >
             <tr>
                 <td valign=top>
-                    <img src=images/frontpage.jpg width=400>
+                    <img src=images/frontpage.jpg width=350>
                 </td>
-                <td valign=top>
-                    <font size=+1>
+                <td valign=top style=\"font-size:20\">
                         $home2
                         <p>
                         <a href=info.php>$home3</a>
                         <p>
                         <a href=https://www.facebook.com/MusiqueAncienneSaintSavin><img src=images/facebook.jpg width=80></a>
-                    </font>
                 </td>
             </tr>
         </table>

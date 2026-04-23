@@ -2,8 +2,8 @@
 
 error_reporting(E_ALL);
 
-define('FONT_MED', 'style="font-size:20"');
-define('FONT_SMALL', 'style="font-size:18"');
+define('FONT_MED', 'style="font-size:22"');
+define('FONT_SMALL', 'style="font-size:22"');
 
 function show_link($title, $page, $this_page) {
     if ($page == $this_page) {
@@ -38,6 +38,7 @@ function head($this_page) {
         <html>
         <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=.5">
         </head>
         <body style="background-color: black; color: white; font-family: Garamond;" link=white vlink=white>
         <div style="max-width: 755; margin: auto">
