@@ -3,7 +3,7 @@
 error_reporting(E_ALL);
 
 define('FONT_MED', 'style="font-size:22"');
-define('FONT_SMALL', 'style="font-size:22"');
+define('FONT_SMALL', 'style="font-size:20"');
 
 function show_link($title, $page, $this_page) {
     if ($page == $this_page) {
@@ -82,7 +82,7 @@ function show_concert($c) {
             </td>
         </tr>
         ',
-        $c[0], FONT_MED, $c[1], $c[2]
+        $c[0], FONT_SMALL, $c[1], $c[2]
     );
 }
 
