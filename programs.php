@@ -1,12 +1,12 @@
 <?php
 
 require_once('util.inc');
-require_once('program_2025');
+require_once('program_2026');
 
 function main() {
-    global $program_2025;
+    global $program_2026;
     head('programs.php');
-    show_year(2025, $program_2025);
+    show_year(2026, $program_2026);
     tail();
 }
 

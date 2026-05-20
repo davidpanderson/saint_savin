@@ -1,6 +1,7 @@
 <?php
 
 require_once('util.inc');
+require_once('program_2025');
 require_once('program_2024');
 require_once('program_2022');
 require_once('program_2019');
@@ -9,6 +10,7 @@ require_once('program_2016');
 require_once('program_2014');
 
 function main() {
+    global $program_2025;
     global $program_2024;
     global $program_2022;
     global $program_2019;
@@ -16,6 +18,7 @@ function main() {
     global $program_2016;
     global $program_2014;
     head('old_programs.php');
+    show_year(2025, $program_2025);
     show_year(2024, $program_2024);
     show_year(2022, $program_2022);
     show_year(2019, $program_2019);
