@@ -34,6 +34,7 @@ function main() {
     global $diego;
     global $elfa;
     global $flore;
+    global $frederic;
     global $hanna;
     global $jesus;
     global $josefien;
@@ -52,20 +53,23 @@ function main() {
     head('musicians.php');
     $i = 0;
     show('maryse.jpg', $maryse, $i++);
-    show('margaret.jpeg', $margaret, $i++);
+    show('anne_fahy.jpeg', $anne_fahy, $i++);
     show('clea.jpg', $clea, $i++);
+    show('margaret.jpeg', $margaret, $i++);
     show('elfa.jpg', $elfa, $i++);
-    show('hanna.jpg', $hanna, $i++);
+    show('frederic_munoz.jpg', $frederic, $i++);
     show('aurelie-crop-u3799.jpg', $aurelie, $i++);
     show('vlad.jpg', $vladimir, $i++);
     show('claire2.jpg', $claire, $i++);
+    show('flore_seube2.jpg', $flore, $i++);
+    show('stephen_alltop.jpeg', $stephen_alltop, $i++);
 
+    //show('hanna.jpg', $hanna, $i++);
     //show('jesus.jpeg', $jesus, $i++);
     //show('margaret.jpg', $Margaret, $i++);
     //show('lina.jpg', $lina, $i++);
     //show('loriane.jpg', $loriane, $i++);
     //show('diane_mond.jpg', $diane, $i++);
-    //show('flore_seube.jpg', $flore, $i++);
     //show('severine.jpg', $severine, $i++);
     //show('daphne.jpeg', $daphne, $i++);
     //show('susan.jpeg', $susan, $i++);
