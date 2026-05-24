@@ -10,7 +10,8 @@ function main() {
         <table width=100%% cellpadding=12>
             <tr>
                 <td %s valign=top><font size=+3>Saint-Savin</font><p> %s</td>
-                <td valign=top><img height=240 src=images/saintsavinmisty.jpg></td>
+                <td valign=top><img width=340 src=images/saint_savin.jpeg>
+                    <p><img width=340 src=images/chapelle_pietat.WEBP></td>
             </tr>
             <tr>
                 <td valign=top %s>%s<p><img height=200 src=images/closeup.jpg></td>

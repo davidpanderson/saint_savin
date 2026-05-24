@@ -61,6 +61,7 @@ function main() {
     show('aurelie-crop-u3799.jpg', $aurelie, $i++);
     show('vlad.jpg', $vladimir, $i++);
     show('claire2.jpg', $claire, $i++);
+    show('josefien.jpg', $josefien, $i++);
     show('flore_seube2.jpg', $flore, $i++);
     show('stephen_alltop.jpeg', $stephen_alltop, $i++);
 
