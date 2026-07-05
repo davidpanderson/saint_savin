@@ -9,9 +9,6 @@ $anne_fahy = "
 En 1980, Anne Fahy et Ian Tucker fondent leur atelier à Mistley au Royaume-Uni, et se spécialisent dans la facture de copies d'instruments anciens.  Depuis 2016, Anne Fahy réside à Pau et continue à créer des instruments; elle s'occupe également de l'entretien et de la remise en état de clavecins dans la toute région.
 ";
 
-$frederic = "Né dans une famille andalouse et française de tradition musicale depuis le XIX° siècle, <b>Frédéric Muñoz</b> commence très tôt l’étude de la musique : le piano, puis l’orgue dès l’âge de 14 ans, auprès de Georges Laval, élève de Xavier Darasse. En Mars 1970, il est nommé organiste titulaire du Temple d'Alès (Gard Occitanie), poste qu'il occupe encore aujourd'hui. Dès 1973, Il poursuit sa formation à Montpellier avec Jacques Bétoulières, en parallèle à ses Etudes Universitaires. Il obtient son diplôme de Pharmacien d’Etat en Juillet 1978. Frédéric Muñoz a exercé ce métier en officine de pharmacie jusqu'en Août 2016.En Mai 1980, il est nommé officiellement Titulaire de l’Orgue Historique de l’Abbaye de Saint Guilhem le Désert (Hérault). Il joue chaque année de nombreux récitals en France et à l ‘étranger.
-";
-
 $aurelie = "
 Après des études à Paris, <b>Aurélie Toucouère</b> obtient une licence de musicologie et un DEM d’alto en 2003, puis le Diplôme d’Etat de professeur d’alto en 2005. Après avoir travaillé à Compiègne, où elle fût membre du quatuor Lodi et de l'orchestre Col Legno, elle vient s’installer dans le Béarn en 2008.  Enseignant la musique sous diverses formes, elle devient également chef de chœur et d'orchestre. Elle poursuit sa pratique de l'orchestre et de la musique de chambre, actuellement au sein de l'ensemble Eugénie.
 ";
@@ -37,6 +34,9 @@ Attiré par le répertoire baroque pour le luth et les instruments à cordes pin
 
 $elfa = "
 <b>Elfa Run Kristinsdóttir</b>, violon s’est faite connaitre en 2006 en obtenant à l’age de 21 ans le Grand Prix, le Prix du Public, et le prix pour du plus jeune finaliste au concours international Jean Sebastien Bach de Leipzig (Allemagne). La même année, elle gagne le prix de la fondation Pro Europa pour la Culture. Après avoir grandi en Islande, Elfa fait partie depuis 2006 de l’Ensemble Kaleidoscope de Berlin, et le dirige depuis 2008. Elle est aussi souvent engagée comme soliste et leader de l’ensemble « Alte Musik Berlin ». Elle a enregistré plusieurs albums dont des oeuvres de Telemann et les partitas pour violon seul de Bach, pour lesquels elle a recu des critiques enthousiastes. Elle se produit dans de nombreux festivals tels que le Bachfest de Leipzig, le festival de Sydney (Australie), de Berkeley (Etats Unis).
+";
+
+$frederic = "Né dans une famille andalouse et française de tradition musicale depuis le XIX° siècle, <b>Frédéric Muñoz</b> commence très tôt l’étude de la musique : le piano, puis l’orgue dès l’âge de 14 ans, auprès de Georges Laval, élève de Xavier Darasse. En Mars 1970, il est nommé organiste titulaire du Temple d'Alès (Gard Occitanie), poste qu'il occupe encore aujourd'hui. Dès 1973, Il poursuit sa formation à Montpellier avec Jacques Bétoulières, en parallèle à ses Etudes Universitaires. Il obtient son diplôme de Pharmacien d’Etat en Juillet 1978. Frédéric Muñoz a exercé ce métier en officine de pharmacie jusqu'en Août 2016.En Mai 1980, il est nommé officiellement Titulaire de l’Orgue Historique de l’Abbaye de Saint Guilhem le Désert (Hérault). Il joue chaque année de nombreux récitals en France et à l ‘étranger.
 ";
 
 $flore= "
@@ -85,6 +85,10 @@ $susan = "
 <b>Susan Edward</b>, violoncelle, est originaire de Londres. Depuis le Gers, ou elle réside actuellement, elle mène une carrière internationale tant en Angleterre, Allemagne, Espagne ou au Moyen Orient.
 Elle a enseigné pendant cinq ans pour la « Fondation Barenboïm-Saïd », un projet d’éducation musicale pour jeunes Palestiniens, dirigé par le pianiste et chef d’orchestre Israélien Daniel Barenboïm. Dans le Gers elle a créé l’association 
 « Musique de chambre dans le Gers » avec le but de promouvoir la musique de chambre en milieu rural.Elle collabore avec des ensembles tels que Les Sacqueboutiers de Toulouse, l’Ensemble Baroque de Toulouse, Antiphona et Café Zimmerman.
+";
+
+$teddy = "
+D’abord trompettiste pendant plus de 10 ans et titulaire d’une licence en Musicologie, <b>Teddy Danjean</b> s’est découvert un intérêt profond pour les musiques anciennes, notamment celle de la Renaissance. C’est alors tout naturellement qu’il s’est orienté vers la pratique du cornet à bouquin. Il prend des cours auprès de Judith Pacquier et après 2 ans d’étude il intègre le Conservatoire National Supérieur de Musique et de Danse de Lyon dans la classe de Jean Tubéry. Il peut ainsi y approfondir ses connaissances de l’instrument, de son répertoire ainsi que de la pratique historiquement informée.
 ";
 
 $vladimir = "

@@ -48,6 +48,7 @@ function main() {
     global $severine;
     global $stephen_alltop;
     global $susan;
+    global $teddy;
     global $vladimir;
 
     head('musicians.php');
@@ -64,6 +65,7 @@ function main() {
     show('josefien.jpg', $josefien, $i++);
     show('flore_seube2.jpg', $flore, $i++);
     show('stephen_alltop.jpeg', $stephen_alltop, $i++);
+    show('teddy_sm.jpg', $teddy, $i++);
 
     //show('hanna.jpg', $hanna, $i++);
     //show('jesus.jpeg', $jesus, $i++);
