@@ -54,7 +54,7 @@ function main() {
     head('musicians.php');
     $i = 0;
     show('maryse.jpg', $maryse, $i++);
-    show('anne_fahy.jpeg', $anne_fahy, $i++);
+    show('anne_fahy2.jpeg', $anne_fahy, $i++);
     show('clea.jpg', $clea, $i++);
     show('margaret.jpeg', $margaret, $i++);
     show('elfa.jpg', $elfa, $i++);
